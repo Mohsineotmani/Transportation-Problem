@@ -1,0 +1,11 @@
+# =====================
+# Node / React (Vite)
+# =====================
+
+frontend/node_modules
+other
+# =====================
+# Python / FastAPI
+# =====================
+backend/__pycache__/
+
